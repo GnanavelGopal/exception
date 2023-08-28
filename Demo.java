@@ -16,6 +16,7 @@ public static void main(String[] args) {
 		System.out.println("No");
 	}
 	System.out.println(a/b);
-	System.out.println("Thank You");
+	System.out.println("Thank you all");
+	System.out.println("meet you soon");
 }
 }
